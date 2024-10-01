@@ -1,0 +1,4 @@
+git clone https://github.com/danahawa/classWorkTest
+git add anwarmaswadeh.txt
+git commit -m "Create file"
+git push
