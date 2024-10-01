@@ -1,0 +1,9 @@
+1. git clone https://github.com/danahawa/classWorkTest
+
+2. Create the  text file.
+
+3. git add SarahAbuIrmeileh.txt
+
+4. git commit -m "Create my file with required commands"
+
+5. git push
